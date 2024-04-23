@@ -2048,7 +2048,7 @@
 			"platform": "linux",
 			"ports": [
 				"3003:3000/tcp",
-				"3005:80/tcp",
+				"3008:80/tcp",
 				"4001:4001/tcp"
 			],
 			"restart_policy": "unless-stopped",
